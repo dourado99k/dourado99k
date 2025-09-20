@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Felipe Dourado
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F2C90C&size=35&center=true&vcenter=true&width=1000&lines=Fique+a+vontade+para+contribuir+:%29;Com+meus+Repositórios+,+se+assim+desejar)](https://git.io/typing-svg)  
 
-- 🔭 Estou cursando Desenvolvimento de Sistema
-- 🌱 Apaixonado por Backend
+-  Estou cursando Desenvolvimento de Sistemas
+-  Apaixonado por Backend
 
 ## Estatísticas do Meu Perfil
 <div >
