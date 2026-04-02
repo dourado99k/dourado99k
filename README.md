@@ -1,5 +1,5 @@
 ## Prazer, Dourado
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F2C90C&size=35&center=true&vcenter=true&width=1000&lines=The+World+is+Yours+The+World+is+Yours)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F2C90C&size=35&center=true&vcenter=true&width=1000&lines=The+World+is+Yours)](https://git.io/typing-svg)  
 
 -  Digital Business
 -  Cursando Desenvolvimento de Sistemas
