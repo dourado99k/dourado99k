@@ -3,7 +3,7 @@
 
 -  Digital Business
 -  Desenvolvimento de Sistemas
--  Viciado em backend
+-  Backend
 
 
 <div style="display: inline_block"><br>
