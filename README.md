@@ -1,4 +1,4 @@
-## !99k em JÓIAS 
+## !99k em joias 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff2c2c&size=35&center=true&vcenter=true&width=1000&lines=The+World+is+Yours.)](https://git.io/typing-svg)  
 
 -  Digital Business
